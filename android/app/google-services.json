@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330400391715",
+    "project_id": "registro-de-pago-3c9fe",
+    "storage_bucket": "registro-de-pago-3c9fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330400391715:android:20693825f0f20ab07b0796",
+        "android_client_info": {
+          "package_name": "com.example.registro_pagos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJz45aFonFPyv3N8WQdPZqC9Ii1YFKFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
